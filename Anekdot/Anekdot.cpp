@@ -25,6 +25,6 @@ int main() {
 	cout << endl;
 
 	// вывод результа
-	cout << Reshenie(x, y) << endl;
+	cout << "сумма модулей х и у делится на модуль произведение х и у: " << Reshenie(x, y) << endl;
 
 }
